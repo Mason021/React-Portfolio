@@ -2,7 +2,7 @@
     {
     "id": 1,
     "name": "binge bucket",
-    "image": "",
+    "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/binge-bucket.PNG",
     "github": "https://github.com/meck512/BingeBucket",
     "deploy": "https://arcane-plateau-68578.herokuapp.com/",
     "topics": "express, mysql2, sequelize, dotenv, express-handlebars, express-session connect-session-sequelize, bcrypt"
@@ -10,7 +10,7 @@
     {
     "id": 2,
     "name": "movie matcher",
-    "image": "",
+    "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/movie-matcher.PNG",
     "github": "https://github.com/LincolnW90/Movie-Matcher",
     "deploy": "https://lincolnw90.github.io/Movie-Matcher/",
     "topics": "HTML, CSS, JavaScript, Bulma CSS framework, Jquery, Moment.js"
@@ -18,7 +18,7 @@
     {
     "id": 3,
     "name": "tech blog",
-    "image": "",
+    "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/tech-blog.PNG",
     "github": "https://github.com/Mason021/Tech-Blog",
     "deploy": "https://guarded-wave-95141.herokuapp.com/",
     "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
@@ -26,7 +26,7 @@
     {
     "id": 4,
     "name": "weather dashboard",
-    "image": "",
+    "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/weather-dashboard.PNG",
     "github": "https://github.com/Mason021/weather-dashboard",
     "deploy": "https://mason021.github.io/weather-dashboard/",
     "topics": "javascript, HTML, CSS, bootstrap, moment.js, API"
@@ -34,7 +34,7 @@
     {
     "id": 5,
     "name": "professional readme generator",
-    "image": "",
+    "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/readme.PNG",
     "github": "https://github.com/Mason021/Professional-README-Generator",
     "deploy": "https://github.com/Mason021/Professional-README-Generator/blob/main/utils/images/README%20example%20video.gif",
     "topics": "HTML, CSS, axios, inquirer, node"
@@ -42,7 +42,7 @@
     {
     "id": 6,
     "name": "work day schedular",
-    "image": "",
+    "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/work-day-scheduler.PNG",
     "github": "https://github.com/Mason021/Work-Day-Scheduler",
     "deploy": "https://mason021.github.io/Work-Day-Scheduler/",
     "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
@@ -50,7 +50,7 @@
     {
     "id": 7,
     "name": "Horiseon project",
-    "image": "",
+    "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/horiseon.PNG",
     "github": "https://github.com/Mason021/Horiseon-project",
     "deploy": "https://mason021.github.io/Horiseon-project/",
     "topics": "HTML, CSS"
@@ -58,7 +58,7 @@
     {
     "id": 8,
     "name": "team profile generator",
-    "image": "",
+    "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/team-profile-generator.PNG",
     "github": "https://github.com/Mason021/Team-Profile-Generator",
     "deploy": "https://www.youtube.com/watch?v=JpmFP3UG4VE",
     "topics": "HTML, Javascript, inquirer, jest"
@@ -66,7 +66,7 @@
     {
     "id": 9,
     "name": "note taker",
-    "image": "",
+    "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/note-taker.PNG",
     "github": "https://github.com/Mason021/Note-Taker",
     "deploy": "https://mason-note-taker.herokuapp.com/",
     "topics": "express, mysql2, jest, javaScript, HTML, CSS"
