@@ -10,7 +10,7 @@
   * [License](#license)
   
   ## Usage 
-    [Here](https://mason021.github.io/React-Portfolio/) is a link to my portfolio
+[Here](https://mason021.github.io/React-Portfolio/) is a link to my portfolio
   
   ## License
   
