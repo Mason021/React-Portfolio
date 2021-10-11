@@ -1,5 +1,5 @@
 import React from 'react'; 
-import 'bootstrap/dist/css/bootstrap.min.css';
+import '../../assets/css/bootstrap-3.3.7-dist/css/bootstrap.min.css';
 
 // Individual Card build-out using props
 function ProjectCards(props) {
