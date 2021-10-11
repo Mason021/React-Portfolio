@@ -23,4 +23,3 @@
   For any questions, please contact me with the information below:
  
   GitHub: [@Mason021](https://api.github.com/users/Mason021)
-  
