@@ -3,7 +3,7 @@ import React from 'react';
 function About() {
     return (
         <section className="title">
-            <h1 class="name">about: masonCain</h1>
+            <h1 class="name">About: Mason Cain</h1>
             <hr></hr>
 
             <div className="row justify-content-center">
@@ -55,7 +55,7 @@ function About() {
                         Curabitur imperdiet ultricies mollis. In hac habitasse platea dictumst.
                     </p>
                     <p>
-                        View full <a href="#/resume" class="link">resume</a>
+                        View full <a href="#/resume" class="link">Resume</a>
                     </p>
                 </div>
             </div>
