@@ -3,23 +3,14 @@
   
   
   ## Description 
-  
-  
-  m
+  A deployed React portfolio with samples of my previous projects
+
   ## Table of Contents
-  * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   
-  ## Installation
-  
-  
-  m
-  
   ## Usage 
-  
-   
-  m
+    [Here](https://mason021.github.io/React-Portfolio/) is a link to my portfolio
   
   ## License
   
