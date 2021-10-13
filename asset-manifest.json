@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.82b63002.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.ed6e9769.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.ed6e9769.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.c2e77b81.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.c2e77b81.js.map",
+    "static/js/2.8cbd6ded.chunk.js": "/React-Portfolio/static/js/2.8cbd6ded.chunk.js",
+    "static/js/2.8cbd6ded.chunk.js.map": "/React-Portfolio/static/js/2.8cbd6ded.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.82b63002.chunk.css.map": "/React-Portfolio/static/css/main.82b63002.chunk.css.map",
+    "static/js/2.8cbd6ded.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.8cbd6ded.chunk.js.LICENSE.txt",
+    "static/media/bootstrap.min.css": "/React-Portfolio/static/media/glyphicons-halflings-regular.be810be3.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2e77b81.js",
+    "static/js/2.8cbd6ded.chunk.js",
+    "static/css/main.82b63002.chunk.css",
+    "static/js/main.ed6e9769.chunk.js"
+  ]
+}
