@@ -14,7 +14,7 @@ return(
                 <a href="https://www.linkedin.com/in/masoncain021/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="Mason Cain LinkedIn Profile"/></a>
                 </p>
                 <p>
-                Download my full <a href="" class="link">resume</a>
+                Download my full <a href="https://github.com/Mason021/React-Portfolio/blob/main/src/assets/Resume-Mason-Cain.pdf" class="link">resume</a>
                 <br></br>
                 </p>
             </div>
