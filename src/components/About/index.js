@@ -8,7 +8,7 @@ function About() {
 
             <div className="row justify-content-center">
                 <div className="col-10" id="about-section">
-                    <img class="mb-5" src="https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/mason-pic.png" alt="Mason Cain" />
+                    <img class="mb-5" src="https://raw.githubusercontent.com/Mason021/React-Portfolio/main/src/assets/images/mason-pic.png" alt="Mason Cain" />
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec bibendum turpis sed ex
                         condimentum molestie. Mauris condimentum lectus ut ornare dignissim. Mauris faucibus urna
