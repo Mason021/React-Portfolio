@@ -1,15 +1,15 @@
 [
     {
     "id": 1,
-    "name": "binge bucket",
-    "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/binge-bucket.PNG",
+    "name": "Binge Bucket",
+    "image": "https://raw.githubusercontent.com/Mason021/React-Portfolio/9518ed205c5b3bc86477478559014781584ba882/src/assets/images/binge-bucket.PNG",
     "github": "https://github.com/meck512/BingeBucket",
     "deploy": "https://arcane-plateau-68578.herokuapp.com/",
     "topics": "express, mysql2, sequelize, dotenv, express-handlebars, express-session connect-session-sequelize, bcrypt"
     },
     {
     "id": 2,
-    "name": "movie matcher",
+    "name": "Movie Matcher",
     "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/movie-matcher.PNG",
     "github": "https://github.com/LincolnW90/Movie-Matcher",
     "deploy": "https://lincolnw90.github.io/Movie-Matcher/",
@@ -17,7 +17,7 @@
     },
     {
     "id": 3,
-    "name": "tech blog",
+    "name": "Tech Blog",
     "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/tech-blog.PNG",
     "github": "https://github.com/Mason021/Tech-Blog",
     "deploy": "https://guarded-wave-95141.herokuapp.com/",
@@ -25,15 +25,15 @@
     },
     {
     "id": 4,
-    "name": "weather dashboard",
-    "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/weather-dashboard.PNG",
+    "name": "Weather Dashboard",
+    "image": "../assets/images/weather-dashboard.PNG",
     "github": "https://github.com/Mason021/weather-dashboard",
     "deploy": "https://mason021.github.io/weather-dashboard/",
     "topics": "javascript, HTML, CSS, bootstrap, moment.js, API"
     },
     {
     "id": 5,
-    "name": "professional readme generator",
+    "name": "Professional README Generator",
     "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/readme.PNG",
     "github": "https://github.com/Mason021/Professional-README-Generator",
     "deploy": "https://github.com/Mason021/Professional-README-Generator/blob/main/utils/images/README%20example%20video.gif",
@@ -41,7 +41,7 @@
       },
     {
     "id": 6,
-    "name": "work day schedular",
+    "name": "Work Day Schedular",
     "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/work-day-scheduler.PNG",
     "github": "https://github.com/Mason021/Work-Day-Scheduler",
     "deploy": "https://mason021.github.io/Work-Day-Scheduler/",
@@ -49,7 +49,7 @@
     },
     {
     "id": 7,
-    "name": "Horiseon project",
+    "name": "Horiseon Project",
     "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/horiseon.PNG",
     "github": "https://github.com/Mason021/Horiseon-project",
     "deploy": "https://mason021.github.io/Horiseon-project/",
@@ -57,7 +57,7 @@
     },
     {
     "id": 8,
-    "name": "team profile generator",
+    "name": "Team Profile Generator",
     "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/team-profile-generator.PNG",
     "github": "https://github.com/Mason021/Team-Profile-Generator",
     "deploy": "https://www.youtube.com/watch?v=JpmFP3UG4VE",
@@ -65,7 +65,7 @@
     },
     {
     "id": 9,
-    "name": "note taker",
+    "name": "Note Taker",
     "image": "https://github.com/Mason021/React-Portfolio/blob/main/src/assets/images/note-taker.PNG",
     "github": "https://github.com/Mason021/Note-Taker",
     "deploy": "https://mason-note-taker.herokuapp.com/",
